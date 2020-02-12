@@ -35,7 +35,7 @@ namespace Converter
 
             };
             Regex regex = new Regex(@"(GO|USE|SET|ASC|ALTER|REFERENCES|EXEC)"); //пропуск генерации операторов SQL
-            Regex regex3 = new Regex("\"\\w*\""); //Изменение капитуляции
+            Regex regex3 = new Regex("\"\\w*\""); //изменение капитализации
             try
             {
                 Console.WriteLine("Введите путь к файлу");
@@ -59,7 +59,7 @@ namespace Converter
                             {
                                 line = line + ";";
                             }
-                            MatchCollection matches = regex3.Matches(line); //Капитализация
+                            MatchCollection matches = regex3.Matches(line); //капитализация
                             if (matches.Count > 0)
                             {
                                 foreach (Match match in matches)

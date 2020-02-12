@@ -4,3 +4,10 @@ C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\bin\Debug\Converter.pdb
 C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
 C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\obj\Debug\Converter.exe
 C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\obj\Debug\Converter.pdb
+D:\Job\sqltopostgreconverter\Converter\Converter\bin\Debug\Converter.exe.config
+D:\Job\sqltopostgreconverter\Converter\Converter\bin\Debug\Converter.exe
+D:\Job\sqltopostgreconverter\Converter\Converter\bin\Debug\Converter.pdb
+D:\Job\sqltopostgreconverter\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+D:\Job\sqltopostgreconverter\Converter\Converter\obj\Debug\Converter.csproj.CoreCompileInputs.cache
+D:\Job\sqltopostgreconverter\Converter\Converter\obj\Debug\Converter.exe
+D:\Job\sqltopostgreconverter\Converter\Converter\obj\Debug\Converter.pdb
