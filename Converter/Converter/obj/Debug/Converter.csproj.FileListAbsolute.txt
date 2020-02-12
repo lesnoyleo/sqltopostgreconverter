@@ -1,0 +1,6 @@
+C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\bin\Debug\Converter.exe.config
+C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\bin\Debug\Converter.exe
+C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\bin\Debug\Converter.pdb
+C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\obj\Debug\Converter.csprojAssemblyReference.cache
+C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\obj\Debug\Converter.exe
+C:\Users\eugene_lazuka\Job\Converter\Converter\Converter\obj\Debug\Converter.pdb
